@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406411199359",
+    "project_id": "hdfc-card-44d18",
+    "storage_bucket": "hdfc-card-44d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406411199359:android:5dcce86c010e87f22dd04a",
+        "android_client_info": {
+          "package_name": "com.disc.hdfccard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSM8nrmF29o8xwgsZlcQfKYHQpW0Hm7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
